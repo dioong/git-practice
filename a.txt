@@ -1,2 +1,4 @@
 main에서 작성한 글 b
 main에서 작성한 글 b
+
+rebase에서 변경한 글
