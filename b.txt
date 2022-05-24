@@ -1,2 +1,4 @@
 main에서 작성한 글 a
 main에서 작성한 글 a
+
+rebase, merge  브랜치 생성 후 main에서 계속 작성.
